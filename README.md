@@ -6,11 +6,11 @@ __Team Name__: Plum
 __Last Updated__: June 8, 2023
 
 __Team Members__:
-* Cameron Gregoire
-* Devin Peevy
-* Jiameng Li
-* Junghyon Jo
-* Taylor R Merwin
+* Cameron 
+* Devin 
+* Jiameng 
+* Junghyon 
+* Taylor
 
 __Email__: plumpurple360@gmail.com
 
