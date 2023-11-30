@@ -6,18 +6,15 @@ __Team Name__: Plum
 __Last Updated__: June 8, 2023
 
 __Team Members__:
-* Cameron 
-* Devin 
-* Jiameng 
-* Junghyon 
-* Taylor
-
-__Email__: plumpurple360@gmail.com
+* Cam 
+* Dev
+* Jia
+* Jun
+* Tay
 
 <br>
 
 __Links to Documents__:
 
 * [CodeReview](https://github.com/jawit-uw-edu/plum-blessed-repository/blob/main/ReadMeForReview.MD)
-* [Meeting Minutes](https://github.com/jawit-uw-edu/plum-blessed-repository/blob/a8cc699ee049400639e6896535900860817ff5bc/Weekly%20Reports/Team%20Plum%20Meeting%20Minutes.pdf)
-* [Task Matrix](https://github.com/jawit-uw-edu/plum-blessed-repository/blob/b14bb56772ef09f7735f99829145dd5976a8204d/Weekly%20Reports/Team%20Plum%20Task%20Matrix.pdf)
+
